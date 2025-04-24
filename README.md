@@ -1,4 +1,6 @@
 ## Olá! Me chamo Guilherme Henrique Beitum Barbosa!
+Tenho 17 anos, moro em Apucarana, Paraná no momento faço estágio na UseSistemas, estudo Engenharia de Software na Unicesumar/Maringá e planejo me tornar um desenvolvedor Full Stack Senior.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guihbbarbosa&show_icons=true&theme=dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guihbbarbosa&theme=dark)](https://github.com/anuraghazra/github-readme-stats&)
