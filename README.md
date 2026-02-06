@@ -1,11 +1,10 @@
 ## Olá! Me chamo Guilherme Henrique Beitum Barbosa!
-Tenho 17 anos, moro em Apucarana, Paraná no momento faço estágio na UseSistemas, estudo Engenharia de Software na Unicesumar/Maringá e planejo me tornar um desenvolvedor Full Stack Senior.
-
+Tenho 17 anos, moro em Apucarana, Paraná. No momento faço parte da UseSistemas, estudo Engenharia de Software na Unicesumar/Maringá e planejo me tornar um desenvolvedor Full Stack Senior.
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
