@@ -1,4 +1,4 @@
-## Olá! Me chamo Guilherme Henrique Beitum Barbosa!
+## Olá! Me chamo Guilherme Henrique!
 Tenho 17 anos, moro em Apucarana, Paraná. No momento faço parte da UseSistemas, estudo Engenharia de Software na Unicesumar/Maringá e planejo me tornar um desenvolvedor Full Stack Senior.
 
 
